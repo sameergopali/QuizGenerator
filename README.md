@@ -1,4 +1,4 @@
-# Check your understaing with Quiz Generator using Language Model (LLM)
+# Check your understaing with Quiz Generator
 
 This Streamlit app allows you to generate multiple-choice quiz questions using a Language Model (LLM). The app takes a PDF document as input, processes it to extract relevant information, and generates questions based on the extracted content.
 
